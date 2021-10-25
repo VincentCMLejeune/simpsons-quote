@@ -1,0 +1,22 @@
+.display-right {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    width: 35vw;
+    margin: 25px auto;
+}
+
+.display-left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 35vw;
+    margin: 25px auto;
+}
+
+.quote-img {
+    height: 30vh;
+    width: auto;
+}
